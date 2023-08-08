@@ -72,6 +72,29 @@
 
 ---
 
+## ❓ Tutorial MICAH's BUILDS
+
+### Lanzamientos (releases)
+
+1. Vaya a la [página de lanzamientos (Releases)](https://github.com/Korepi/korepi-online-data/releases)
+2. Descargue las versiones `v0.x.x` (Releases) (Ej. [v0.9.4](https://github.com/Korepi/korepi-online-data/releases/tag/v0.9.4))
+
+### Uso
+
+1. Ejecute `v0.x.x.exe`.
+2. Vaya al canal `micah-bot-verify` en [nuestro Discord](https://discord.gg/cottonbuds) y escriba `/verify` luego pegue su `HWID` que se muestra en la **consola** para obtener **La llave**
+
+<a href="#"><img width="965" height="415" src="https://media.discordapp.net/attachments/1126893908597669989/1138425541838516294/Untitled.png"></a>
+<a href="#"><img width="1324" height="320" src="https://media.discordapp.net/attachments/1126893908597669989/1138426358217842858/Untitled.png"></a>
+
+3. Descargue la **Llave** y colóquelo en la carpeta Asegurándose de que `enc.json` está en la misma carpeta que `v0.x.x.exe`
+4. Run `v0.x.x.exe` again.
+5. Seleccione `GenshinImpact.exe` o `YuanShen.exe`. (compruebe `cfg.ini` para ver si el inyector eligió la ruta correcta del juego)
+6. El juego se lanzará automáticamente, espere a que la interfaz aparezca.
+7. Presione `TAB` Para abrir la interfaz [Korepi](https://github.com/Korepi/Korepi).
+
+<a href="#"><img width="270" height="200" src="https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba9fcbbcb694.png"></a>
+
 ## ⚠ Descargo de responsabilidad (Disclaimer)
 
 - Utilícelo bajo su propia responsabilidad.
