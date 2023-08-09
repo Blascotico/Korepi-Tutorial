@@ -42,7 +42,7 @@
 
 1. Asegúrese que `telemetry.dll` esté en la misma carpeta que `injector.exe`.
 2. Ejecute `injector.exe`.
-3. Seleccione `GenshinImpact.exe` o `YuanShen.exe`. (verifique `cfg.ini`para ver si el inyector colocó la ruta correcta en el archivo)
+3. Seleccione `GenshinImpact.exe` o `YuanShen.exe`. (verifique `cfg.ini` para ver si el inyector colocó la ruta correcta en el archivo)
 4. El juego se lanzará automáticamente, espere a que la interfaz aparezca.
 5. Presione `TAB` Para abrir la interfaz de [Korepi](https://github.com/Korepi/Korepi).
 
@@ -58,7 +58,7 @@
 ### Uso
 
 1. Ejecute `injector.exe`.
-2. Seleccione `GenshinImpact.exe` o `YuanShen.exe`. (Verifique `cfg.ini`para ver si el injector colocó la ruta correcta en el archivo)
+2. Seleccione `GenshinImpact.exe` o `YuanShen.exe`. (Verifique `cfg.ini` para ver si el injector colocó la ruta correcta en el archivo)
 3. Vaya al canal `micah-bot-verify` en [nuestro Discord](https://discord.gg/cottonbuds) y escriba `/getkey` para obtener una llave.
 
 <a href="#"><img width="300" height="200" src="https://cdn.discordapp.com/attachments/1126893908597669989/1128329159559622676/image.png"></a>
@@ -70,7 +70,7 @@
 
 <a href="#"><img width="270" height="200" src="https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba9fcbbcb694.png"></a>
 
-## ❓ Para las compilaciones de MICAH's
+## ❓ Para las compilaciones de MICAH´s
 
 ### Lanzamientos (releases)
 
@@ -80,12 +80,12 @@
 ### Uso
 
 1. Ejecute `v0.x.x.exe`.
-2. Vaya al canal `micah-bot-verify` en [nuestro Discord](https://discord.gg/cottonbuds) y escriba `/verify` a continuación, pegue su `HWID` que se muestra en la **consola** para obtener un **archivo de clave**.
+2. Vaya al canal `micah-bot-verify` en [nuestro Discord](https://discord.gg/cottonbuds) y escriba `/verify` a continuación, pegue su `HWID` que se muestra en la **consola** para obtener un **La llave**.
 
 <a href="#"><img width="965" height="415" src="https://media.discordapp.net/attachments/1126893908597669989/1138425541838516294/Untitled.png"></a>
 <a href="#"><img width="1324" height="320" src="https://media.discordapp.net/attachments/1126893908597669989/1138426358217842858/Untitled.png"></a>
 
-3. Descargue el **archivo llave** y colóquelo en la carpeta Asegúrese de que `enc.json` esté en la misma carpeta que `v0.x.x.exe`
+3. Descargue el **La llave** y colóquelo en la carpeta asegúrandose de que `enc.json` esté en la misma carpeta que `v0.x.x.exe`
 4. Ejecute `v0.x.x.exe` de nuevo.
 5. Seleccione `GenshinImpact.exe` o `YuanShen.exe`. (verifique `cfg.ini` para ver si el inyector colocó la ruta correcta en el archivo)
 6. El juego se lanzará automáticamente, espere a que la interfaz aparezca.
@@ -98,3 +98,4 @@
 
 - Utilícelo bajo su propia responsabilidad.
 - Advertencia: **No difunda información sobre usted utilizando software de terceros**, y todo irá bien.
+
