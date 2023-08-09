@@ -33,7 +33,7 @@
 
 ## ❓ Para Público General
 
-### Lanzamientos (Releases)
+### Lanzamientos (releases)
 
 1. Vaya a la [página de lanzamientos (Releases)](https://github.com/Korepi/keyauth-cpp-library/releases)
 2. Descargue las versiones `P` (Ej. [P5](https://github.com/Korepi/keyauth-cpp-library/releases/tag/P5))
