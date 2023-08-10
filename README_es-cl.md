@@ -25,7 +25,7 @@
 
 ---
 
-## ✨ Última nota
+## ✨ Últimas Novedades
 
 - El proyecto ha sido trasladado a [Korepi](https://github.com/Korepi/Korepi).
 
